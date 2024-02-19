@@ -1,0 +1,29 @@
+.login-form {
+    max-width: 250px; /* Reduced max-width */
+    margin: 0 auto;
+  }
+  
+  .mat-form-field {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    width: 65%; /* Reduced button width */
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: maroon; /* Changed background color to maroon */
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+  }
+  
+  button:hover {
+    background-color: #800000; /* Darker maroon for hover */
+  }
+  
